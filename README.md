@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### I am a skilled Consultant at PlantVision with a demonstrated history of enabling enterprise-scale digital transformation for leading companies in a range of industries. This is reinforced by industrial experience in large-scale heat and power generation and a MSc in Sustainable Energy Engineering.
-
-### Technologies: OSIsoft PI, SQL (MS & Oracle), Python, R, MATLAB, Azure, AWS, Spark, Databricks, Power BI, Grafana, Tableau, PowerShell.
+### Data Engineer @ Inawisdom
 
 <!--
 **mileshopper/MilesHopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
